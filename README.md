@@ -2,4 +2,4 @@
 
 ## practice with loaders and setInterval
 
-- used setInterval() to mimic an API loading to page with a loader as placeholder
+- used setInterval() to mimic an API loading to page with an animated loader as placeholder
